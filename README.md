@@ -1,2 +1,3 @@
-# showandtelljc01
-This is my repository for the show &amp; tell
+# Show and Tell Project
+
+in this project ....
